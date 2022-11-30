@@ -62,9 +62,6 @@ main div p{
 }
 
 @media only screen and (max-width: 550px) {
-  body{
-    background-color: blue;
-  }
 
   body nav{
     position: relative;
@@ -88,9 +85,6 @@ main div p{
 
 /*Tablets e Smartphones + largos, 700px para cima) */
 @media only screen and (min-width: 550px) {
-  body{
-    background-color: yellow;
-  }
 
   body nav{
     display: flex;
@@ -106,9 +100,6 @@ main div p{
 
 /* Dispostivos Largos (laptops/desktops, 1080px para cima) */
 @media only screen and (min-width: 1080px) {
-  body{
-    background-color: red;
-  }
 
   main div{
     flex: 30%;
