@@ -85,7 +85,6 @@ main div p{
 
 /*Tablets e Smartphones + largos, 700px para cima) */
 @media only screen and (min-width: 550px) {
-
   body nav{
     display: flex;
     align-items: center;
